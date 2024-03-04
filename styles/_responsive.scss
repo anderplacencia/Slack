@@ -1,0 +1,40 @@
+/*@media screen and (min-width: 780px) and (max-width: 1023px){
+    body{
+        display: block;    
+    }
+    .padreHeader{
+        display: block;
+        align-items: start;
+        padding: auto;
+    }
+    .segmentoUno{
+        align-items: start;
+        padding: auto;
+    }
+    .pagEnd-img{
+        align-items: start;
+        padding: auto;
+    }
+}*/
+
+/*Tengo dificultad en hacer que se me visualice el ejercicio en pantallas de tablets o telefonos, sorry.*/
+
+
+@media all and (min-width:780px) {
+    body{
+        display: block;    
+    }
+    .padreHeader{
+        /*display: block;*/
+        align-items: start;
+        padding: auto;
+    }
+    .segmentoUno{
+        align-items: start;
+        padding: auto;
+    }
+    .pagEnd-img{
+        align-items: start;
+        padding: auto;
+    }
+}

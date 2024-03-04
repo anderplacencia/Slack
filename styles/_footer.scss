@@ -1,0 +1,12 @@
+.pagEnd{
+    background-color: $color_fondo;
+    padding: 100px;
+    @include flexCenterLineal ();
+    width: 100%;
+    height: 20%;
+
+    &-img{
+        @include flexCenterLineal();
+    }
+
+}
